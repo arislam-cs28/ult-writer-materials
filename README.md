@@ -6,7 +6,7 @@ Are you a writer tired of having bland bookstands, with no inspiration in your h
 From one writer to another, I've always been a bit indecisive when it comes to actually finding what piece I want to write. Maybe you've been too! So with these hand-designed desk items, I hope you can streamline your writing process by making it FUN and INSPIRATIONAL!
 
 ### Demo-url: 
-Watch me [play with the kit](https://www.youtube.com/watch?v=tLPsY6LvASI)!
+Watch me [play with the kit](https://www.youtube.com/watch?v=tLPsY6LvASI)! For any suggestions, just post in comments and I'll fix that up straightway. 
 
 ### The Writer's Checklist
 1. Dice-deas
@@ -22,7 +22,8 @@ Watch me [play with the kit](https://www.youtube.com/watch?v=tLPsY6LvASI)!
 1. Download the full repo by clicking on <>CODE
 2. Download the ZIP file
 3. Extract all the files
-4. Put the STL files you want to print into your favorite 3D printer studio / slicer software!
+4. Put the STL files you want to print into your favorite 3D printer studio / slicer software! 
+5. For models with the same print settings, you can print them on the same plate. Just make sure that they are spaced out to prevent warping and stringiness. 
 
 
 ### Method Two
@@ -32,9 +33,12 @@ Watch me [play with the kit](https://www.youtube.com/watch?v=tLPsY6LvASI)!
 4. Put the STL files you want to print into your favorite 3D printer studio / slicer software!
 
 
+I printed all of the designs below in Eryone Silk PLA and Landu Silk PLA because I felt they fit best for my printer. Both filaments had +-0.02 mm tolerances.
+
+
 ## Items, Print Settings, and Printed Results
 ### Dice-deas
-Can't choose if you wanna write a short story, play, novel... anything? Use Dice-deas, the ultimate die to give you the best writing ideas :D Just roll to see your fate!
+Can't choose if you wanna write a short story, play, novel... anything? Use Dice-deas, the ultimate die to give you the best writing ideas :D Just roll to see your fate! You get any of 6 options that can be used liberally to fit your needs, be they fictional or nonfiction.
 
 #### Symbol Key:
 1. gavel: journalism / article
@@ -51,6 +55,7 @@ Can't choose if you wanna write a short story, play, novel... anything? Use Dice
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA OR MATTE PLA FOR BEST RESULTS
 
 #### Result:
 ![dice photo](photos/dice.png)
@@ -88,6 +93,9 @@ Want a genre to use with your medium, chosen by Dice-deas? Use the WHEEL DEAL! H
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA FOR BEST RESULTS
+
+If you modify the print settings for this one, make sure you keep the infill the strongest on the wheel stand and pretty low on the wheel, so that the stand itself does not break during use. Hitting it too hard may cause damage to the fill. Have fun!
 
 #### Result:
 ![wheel image](photos/wheel.png)
@@ -105,6 +113,7 @@ Literally just a bookmark with a bunch of stencils for when you edit your manusc
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA OR MATTE PLA FOR BEST RESULTS
 
 #### Result:
 ![write-mark](photos/writemark.png)
@@ -121,6 +130,7 @@ Pretty fancy bookmark for you to feel GLAMOROUS as you read!
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA OR MATTE PLA FOR BEST RESULTS
 
 #### Result:
 ![read-mark](photos/readmark.png)
@@ -137,6 +147,7 @@ A pen holder that's shaped like a battle ring / arena / or temple. I mean, they 
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA FOR BEST RESULTS
 
 #### Result:
 ![the arsenal](photos/arsenal.png)
@@ -153,6 +164,7 @@ How can you show off your writing without an ID? Use this fancy, writer-made ID 
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA FOR BEST RESULTS
 
 #### Result:
 ![id-spiration](photos/id.png)
@@ -160,7 +172,7 @@ How can you show off your writing without an ID? Use this fancy, writer-made ID 
 ---
 
 ### The Writer-Coaster
-It might be 3PM when you're writing, it might be 3AM! Be sure to always have your cup of coffee, tea, whatever it is on hand, or... on this fancy little coaster! With book decals and swirling, floral motifs, it's perfect for you to drown in your little writer world.
+It might be 3PM when you're writing, it might be 3AM! Be sure to always have your cup of coffee, tea, whatever it is on hand, or... on this fancy little coaster! With book decals and swirling, floral motifs, it's perfect for you to drown in your little writer world. The design, though intricate, has little warping when used. It works substantially well with any liquid ranging from piping hot to freezing cold.
 
 #### Print Settings
 - No supports
@@ -169,6 +181,7 @@ It might be 3PM when you're writing, it might be 3AM! Be sure to always have you
 - 50 mm/s, initial layer speed
 - 200 mm/s, outer wall speed
 - 300 mm/s, inner wall speed
+- USE SILK PLA FOR BEST RESULTS
 
 #### Result:
 ![coaster](photos/coaster.png)
